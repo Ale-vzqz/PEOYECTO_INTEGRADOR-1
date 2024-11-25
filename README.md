@@ -21,7 +21,7 @@ Este proyecto es una **Calculadora Binaria** que permite realizar operaciones de
 
 1. Clona el repositorio:
    ```bash
-   [https://github.com/Ale-vzqz/PEOYECTO_INTEGRADOR-1.git](https://github.com/Ale-vzqz/PEOYECTO_INTEGRADOR-1.git)
+   https://github.com/Ale-vzqz/PEOYECTO_INTEGRADOR-1.git
 2. Abre el proyecto en tu IDE.
 3. Asegúrate de que las imágenes necesarias estén en la carpeta src/imgs.
 ## Uso
