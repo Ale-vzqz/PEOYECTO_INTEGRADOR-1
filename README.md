@@ -19,4 +19,5 @@ La aplicación tiene una interfaz gráfica de usuario (GUI) desarrollada en Java
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/calculadora-binaria.git
+[   git clone https://github.com/tu_usuario/calculadora-binaria.git
+](https://github.com/Ale-vzqz/PEOYECTO_INTEGRADOR-1.git)
